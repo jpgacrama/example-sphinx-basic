@@ -17,9 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+project = "UX40"
+copyright = "2024 Metrobank's P11 Team"
+authors =    '''
+                Jonas Gacrama (jonas@platform-11.com) and
+                Eydrin John De Vera (eydrin.devera@metrobank.com.ph)
+            '''
 
 
 # -- General configuration ---------------------------------------------------

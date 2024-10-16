@@ -5,10 +5,6 @@ Technical Specifications Document
 
 ---
 
-Workflow Engine: Technical Specifications Document
-==================================================
-
-
 Version History
 ===============
 
@@ -140,9 +136,3 @@ See the following pages for detailed workflow designs:
 - `Account Opening <./AccountOpening.rst>`_
 - `Cash Deposit <#cash-deposit>`_
 - `Check Deposit <./CheckDeposit.rst>`_
-
-
-.. toctree::
-
-   Home <self>
-   workflowEngine
